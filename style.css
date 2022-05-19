@@ -11,7 +11,7 @@
 /* } */
 .carousel-caption {
     position: absolute;
-    top:20px
+    top:20px;
  }
 .b1{
     background-color: #9c56dd;
@@ -123,4 +123,75 @@
 }
 #luftimage{
     border-style: none;
+}
+.datades{
+    margin-inline-start: 10x;
+    background-color: aqua;
+    margin-right: 50px;
+
+    
+}
+#luftimage1{
+    width: 50%;
+}
+.datadesimg{
+    background-color: blanchedalmond;
+    width:80%;
+}
+.exam {
+    border: 1px solid rgb(236, 229, 229);
+    /* background-color: black; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    /* width:60%; */
+    height: auto;
+   
+    flex-wrap: wrap;
+    
+
+}
+.exmimg{
+    /* background-color: rgb(222, 231, 228); */
+    flex: 50%;
+    padding:1px 0px;
+}
+.examdes{
+    /* background-color: rgb(235, 239, 247); */
+    flex: 50%;
+    /* padding: 0px 3px; */
+
+}
+.eximg{
+    width: 100%;
+     margin-top: 30px;
+     margin-left: 10px;
+    
+}
+
+@media(max-width:567px){
+    .fhe1{
+        margin-inline-start:150px;
+    }
+    .footb{
+        margin-inline-start:150px ;
+    }
+    .exam{
+        width:50%;
+        
+    }
+    .exmimg{
+        /* background-color: aquamarine; */
+        flex: 100%;
+       
+    }
+    .examdes{
+        /* background-color: rgb(127, 172, 255); */
+        flex: 100%;
+    
+    }
+    .eximg{
+        width: 80%;
+    }
+
 }
