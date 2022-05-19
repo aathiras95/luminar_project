@@ -1,0 +1,120 @@
+#im1{
+    height: 400px;
+}
+/* .head1{
+    margin-left: 100px;
+} */
+/* .carousel-caption {
+    top: 0;
+    bottom: auto;
+    left: 0; */
+/* } */
+.carousel-caption {
+    position: absolute;
+    top:20px
+ }
+.b1{
+    background-color: #9c56dd;
+    color: white;
+    border-radius: 20px;
+    width: 119px;
+    height: 46px;
+    margin-right:974px ;
+    margin-top: 70px;
+}
+.b1:hover{
+    color:#9c56dd ;
+    background-color: white;
+}
+.bu2{
+    
+        background-color: #9c56dd;
+        color: white;
+        border-radius: 20px;
+        width: 119px;
+        height: 46px;
+        margin-right:974px ;
+        margin-top: 50px;
+}
+.bu2:hover{
+    color:#9c56dd ;
+    background-color: white;
+}
+.in {
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+
+}
+.ta{
+    height: 50px;
+
+}
+.btn-primary{
+    color: azure;
+    background-color: #a777d4;
+}
+.fraw{
+    width:100%;
+    /* background-color: blueviolet;  */
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin: auto;
+    position: relative;
+}
+.ff1{
+    width:50%;
+    background-color:rgb(212, 170, 170);
+    height: 300px;
+    background-image: url(./images/luft.PNG); 
+    
+}
+.ff2{
+    width:50%;
+    background-color:white;
+    height: 300px;
+    padding:20px;
+    text-align: justify;
+    color: black;
+}
+#fca{
+    color: rgb(163, 45, 45);
+}
+.fhe1{
+ margin-left: 560px;
+}
+.fraw1{
+    width:100%;
+    /* background-color: blueviolet; */
+    height: 435px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left:225px ;
+}
+/* .fca1{
+    width
+} */
+.card-title{
+    color: rgb(134, 67, 197);
+}
+#fbb{
+    background-color: rgb(134, 67, 197);
+}
+.footb{
+    border-radius: 63px;
+    height: 44px;
+    color: white;
+    background-color: rgb(152, 85, 214);
+    margin-left: 615px;
+    margin-top: 50px;
+}
+.footb:hover{
+    background-color: white;
+    color: #9c56dd;
+}
+
+
